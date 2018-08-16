@@ -1,0 +1,14 @@
+Package: campaignreports
+Type: Package
+Title: Contains functions useful for campaign reporting
+Version: 0.1.0
+Author: Caleb
+Maintainer: Caleb <cwolfsonseeley@berkeley.edu>
+Description: Run reports to assist units and fundraisers with campaign planning
+License: 2018
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    getcdw,
+    scales
